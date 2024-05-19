@@ -1,7 +1,24 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "xu",
-    "description": "̤�ζ���",
-    "home_page_url": "http://example.com",
-    "items": []
+    "title": "Hexo",
+    "description": "描述123",
+    "home_page_url": "http://yoursite.com",
+    "items": [
+        {
+            "id": "http://yoursite.com/HE/",
+            "url": "http://yoursite.com/HE/",
+            "title": "HE",
+            "date_published": "2024-05-19T09:42:46.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "http://yoursite.com/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8/",
+            "url": "http://yoursite.com/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8/",
+            "title": "HEXO博客的初步使用",
+            "date_published": "2024-05-19T09:16:24.000Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
 }

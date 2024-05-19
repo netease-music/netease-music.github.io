@@ -1,11 +1,25 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>xu</title>
-        <link>http://example.com</link>
-        <description>̤�ζ���</description>
-        <language>en</language>
-        <pubDate>Sun, 19 May 2024 17:45:42 +0800</pubDate>
-        <lastBuildDate>Sun, 19 May 2024 17:45:42 +0800</lastBuildDate>
+        <title>Hexo</title>
+        <link>http://yoursite.com</link>
+        <description>描述123</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 19 May 2024 17:42:46 +0800</pubDate>
+        <lastBuildDate>Sun, 19 May 2024 17:42:46 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/HE/</guid>
+            <title>HE</title>
+            <link>http://yoursite.com/HE/</link>
+            <pubDate>Sun, 19 May 2024 17:42:46 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8/</guid>
+            <title>HEXO博客的初步使用</title>
+            <link>http://yoursite.com/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8/</link>
+            <pubDate>Sun, 19 May 2024 17:16:24 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
     </channel>
 </rss>

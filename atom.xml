@@ -1,7 +1,21 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>xu</title>
-    <link href="http://example.com" />
-    <updated>2024-05-19T09:45:42.496Z</updated>
+    <id>http://yoursite.com</id>
+    <title>Hexo</title>
+    <link href="http://yoursite.com" />
+    <updated>2024-05-19T09:42:46.000Z</updated>
+    <entry>
+        <id>http://yoursite.com/HE/</id>
+        <title>HE</title>
+        <link rel="alternate" href="http://yoursite.com/HE/"/>
+        <content type="html"></content>
+        <updated>2024-05-19T09:42:46.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://yoursite.com/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8/</id>
+        <title>HEXO博客的初步使用</title>
+        <link rel="alternate" href="http://yoursite.com/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8/"/>
+        <content type="html"></content>
+        <updated>2024-05-19T09:16:24.000Z</updated>
+    </entry>
 </feed>
